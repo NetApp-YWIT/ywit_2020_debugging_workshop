@@ -3,15 +3,23 @@
 ## What is Scratch?
 
 A Scratch project can be any number of things—a cartoon, a game, a puzzle. A project is made up of four primary components:
+
 I.	Scripts – You write them and they control everything! 
+
 II.	The Stage – It is the environment in which everything takes place! You can control this environment with scripts.
+
 III.	Sprites – Any number of sprites will populate your project and can perform all kinds of roles; your scripts will tell them what to do!
+
 IV.	Backdrops/Costumes – these are the various backgrounds and appearances your Stage and Sprites will use. The Stage and Sprites can have any number of different backdrops/costumes and change between them.
 
 You can think of Scratch like a play. What are some components of a play?
+
 I.	The Script
+
 II.	The Stage
+
 III.	The Actors
+
 IV.	The Costumes
 
 ### I. The Script
@@ -23,16 +31,23 @@ They perform the same function in Scratch: Scripts control the Stage and all the
 
 #### Try it for yourself:
 1.	Give the Sprite named ‘Player’ a new script that tells it to say ‘Hello’ when the space bar is pressed:
+
 I.	Start the script with a ‘when space key is pressed’ block from the ‘Event’ section of instructions. Simply drag it into the ‘Player’ sprite’s workspace.
+
 II.	Grab the block ‘say hello! For 2 seconds’ from the ‘Looks’ section of instructions and drag it underneath the ‘when space key is pressed’ until the two blocks click together.
 2.	Start the project by pressing the green flag at the top of the project. Now press the space bar—your ‘Player’ should greet you with a hearty ‘Hello!’
 
 ### II. The Stage
 Think about the one thing that’s always fixed in a play. The actors will enter and exit scenes and backdrops transform—but the stage is always there. In many ways, it serves to coordinate and frame a play.
+
 The same concept is present in Scratch, and it is also called a Stage. Here’s a quick rundown of a Scratch Stage:
+
 •	There can only be ¬ONE stage in Scratch.
+
 •	A stage can follow scripts. You can tell the stage to play music, send messages to the sprites, etc…
+
 •	A stage can change backdrops. Think of it like when a play transitions from a night scene to a day scene. The stage stays the same, but the stage background might brighten and a new set might be brought in.
+
 •	A stage can have variables—a variable is like a reminder of a value. You might not remember the value, but Scratch can for you! 
 
 #### Try it for yourself:
@@ -41,26 +56,41 @@ The same concept is present in Scratch, and it is also called a Stage. Here’s 
 
 ### III. Actors
 You can’t have a play without actors! In Scratch, the actors are called Sprites and they can perform any number of functions. Here’s a quick rundown:
+
 •	You can have as many Sprites as you want in a project! Go nuts!
+
 •	A Sprite—just like an actor—follows scripts. They can follow any number of instructions—and its up to you to make those instructions.
-•	A Sprite can also have variables. They can have two kind of variables: 1) A GLOBAL variable is a reminder that EVERYONE can see (including the stage and other sprites); and 2) A PERSONAL variable is a reminder ONLY that Sprite can see.
+
+•	A Sprite can also have variables. They can have two kind of variables: 1) A GLOBAL variable is a reminder that EVERYONE can see (including the stage and other 
+sprites); and 2) A PERSONAL variable is a reminder ONLY that Sprite can see.
+
 •	A Sprite moves around the stage using X, Y coordinates. Be sure to keep track of where each sprite is using a personal variable—you can keep track of them easily this way!
+
 •	Sprites can either being SHOWING or HIDDEN. Your scripts will tell them when they should show themselves or hide!
+
 •	A Sprite—just like an actor—wears a costume. A sprite can have any number of costumes (and can look like just about anything). You can tell a sprite in a script to change its costume.
+
 
 #### Try it for yourself:
 1.	Create a new sprite and add it to the demo project
 2.	Choose a costume for the sprite
 3.	Have that sprite start in the middle of the stage when the Scratch project is started:
+
 i.	Give the Sprite a script that sets a Personal variable name ‘x’ to 0 and another Personal variable named ‘y’ to 0 when the Scratch project starts.
+
 ii.	From the ‘Motion’ blocks, grab a ‘go to’ block and append it to the script you just made. 
+
 iii.	In the ‘x’ bubble of the ‘go to’ block, put your sprite’s ‘x’ variable. In the ‘y’, bubble of the block, put your sprite’s ‘y’ variable. 
 
 ### IV. The Costumes
 You may have noticed this already--but Sprites and the Stage can have their appearances altered with costumes (for Sprites) and backdrops (for the Stage). Here’s a brief rundown:
+
 •	You can select from pre-made costumes/backdrops or draw your own. You can even upload images to your project which you can use in your costumes/backdrops
+
 •	The ‘Look’ section of instructions has instruction blocks that allow you to change your sprite’s costume using a script
+
 •	Obviously, costumes can make your sprites look super swell—but they can also be used to make your Sprites appear to move! Take a look at the ‘Player’ sprite and try to figure out how it appears to move.
+
 So, get movin’ and spruce up your Sprites with spiffy costumes! Make your Stage pop with bangin’ backdrops!
 
 #### Try it for yourself:
@@ -69,6 +99,7 @@ So, get movin’ and spruce up your Sprites with spiffy costumes! Make your Stag
 
 ## Getting Started with Activity:
 Do you have your own Scratch account? If not, please create one using the link https://scratch.mit.edu/
+
 •	Once you have your own Scratch account , go the project page (https://scratch.mit.edu/projects/448126075/), and click the REMIX button at the top of the project to create your own copy of it!
 
 Read the project description to understand how the game is supposed to work and start hacking away! Can you find out all the 12 bugs in the project?
@@ -79,6 +110,7 @@ Read the project description to understand how the game is supposed to work and 
 
 ### What’s next?
 •	Congratulations!! You have successfully debugged ‘Feed the Dino’ game! Way to go – you are officially a developer now. Believe me, this is how coding/developing works.
+
 •	We have provided you another game with intentional bugs int it as a take home activity. If you liked working through ‘Feed the Dino’ project, and are interested in more such debugging challenges, work through another debugging activity https://scratch.mit.edu/projects/448127440/
 
 ## Finding the Right Block
@@ -88,6 +120,7 @@ Scratch gives you a lot of blocks to use for your scripts. There are lots of blo
 •	These blocks will move your sprites in different ways (position, rotation, etc.) A Stage doesn’t move so it cannot use these.
 Looks
 •	The blocks help you to change the costumes and backdrops for your sprites and stages.
+
 •	These blocks also tell your sprite to show itself or hide—they can even tell your sprite to say something!
 
 ### Sounds
@@ -95,6 +128,7 @@ Looks
 
 ### Events
 •	These blocks in this section are typically used at the start of a script. These blocks listen for specific events to occur (like pressing a key, hearing a message, or when the green start button is pressed)—when they do, the script is started, and the sprite or Stage will begin following the instructions listed in the script.
+
 •	Some blocks in this section broadcast a message that other scripts can hear. You can use these blocks to have your sprites and Stage talk to one another. For example, when your sprite reaches the end of the screen, it can send a message to your Stage to change the backdrop to a new scene.
 
 ### Control
