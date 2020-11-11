@@ -25,16 +25,20 @@ IV.	The Costumes
 ### I. The Script
  At the center of any good play is well-written script (of course, Hollywood may disagree 😋). The scripts tell the stage to change scenes and the actor what to do. 
 They perform the same function in Scratch: Scripts control the Stage and all the Sprites in a Scratch project. Here’s a quick rundown of a Scratch Script:
+
 •	A script belongs to a sprite or a stage. A sprite or a stage can hold any number of scripts.
+
 •	A script begins with an ‘Event’ block. The event block represents something that tells the holder of that script to begin following that script’s instructions.
+
 •	A script is made up of blocks which each represent an instruction. An instruction might tell the stage to change its backdrop or tell a sprite to scooch over to the left.
 
 #### Try it for yourself:
 1.	Give the Sprite named ‘Player’ a new script that tells it to say ‘Hello’ when the space bar is pressed:
 
-I.	Start the script with a ‘when space key is pressed’ block from the ‘Event’ section of instructions. Simply drag it into the ‘Player’ sprite’s workspace.
+  I.	Start the script with a ‘when space key is pressed’ block from the ‘Event’ section of instructions. Simply drag it into the ‘Player’ sprite’s workspace.
 
-II.	Grab the block ‘say hello! For 2 seconds’ from the ‘Looks’ section of instructions and drag it underneath the ‘when space key is pressed’ until the two blocks click together.
+  II.	Grab the block ‘say hello! For 2 seconds’ from the ‘Looks’ section of instructions and drag it underneath the ‘when space key is pressed’ until the two blocks click together.
+
 2.	Start the project by pressing the green flag at the top of the project. Now press the space bar—your ‘Player’ should greet you with a hearty ‘Hello!’
 
 ### II. The Stage
@@ -51,8 +55,8 @@ The same concept is present in Scratch, and it is also called a Stage. Here’s 
 •	A stage can have variables—a variable is like a reminder of a value. You might not remember the value, but Scratch can for you! 
 
 #### Try it for yourself:
-3.	Change the backdrop of the demo stage to something else
-4.	Have a sound play when the demo Scratch project is started
+1.	Change the backdrop of the demo stage to something else
+2.	Have a sound play when the demo Scratch project is started
 
 ### III. Actors
 You can’t have a play without actors! In Scratch, the actors are called Sprites and they can perform any number of functions. Here’s a quick rundown:
@@ -76,11 +80,11 @@ sprites); and 2) A PERSONAL variable is a reminder ONLY that Sprite can see.
 2.	Choose a costume for the sprite
 3.	Have that sprite start in the middle of the stage when the Scratch project is started:
 
-i.	Give the Sprite a script that sets a Personal variable name ‘x’ to 0 and another Personal variable named ‘y’ to 0 when the Scratch project starts.
+  i.	Give the Sprite a script that sets a Personal variable name ‘x’ to 0 and another Personal variable named ‘y’ to 0 when the Scratch project starts.
 
-ii.	From the ‘Motion’ blocks, grab a ‘go to’ block and append it to the script you just made. 
+  ii.	From the ‘Motion’ blocks, grab a ‘go to’ block and append it to the script you just made. 
 
-iii.	In the ‘x’ bubble of the ‘go to’ block, put your sprite’s ‘x’ variable. In the ‘y’, bubble of the block, put your sprite’s ‘y’ variable. 
+  iii.	In the ‘x’ bubble of the ‘go to’ block, put your sprite’s ‘x’ variable. In the ‘y’, bubble of the block, put your sprite’s ‘y’ variable. 
 
 ### IV. The Costumes
 You may have noticed this already--but Sprites and the Stage can have their appearances altered with costumes (for Sprites) and backdrops (for the Stage). Here’s a brief rundown:
@@ -104,14 +108,6 @@ Do you have your own Scratch account? If not, please create one using the link h
 
 Read the project description to understand how the game is supposed to work and start hacking away! Can you find out all the 12 bugs in the project?
 
-## Finished with your project?
-### Are you sure?
-•	A programmer’s work is never done! There’s always room to improve upon your project—making it even better. Try to include your ideas into the game to make it more interesting 😊 You can add more intentional bugs into the project and challenge your friends to debug it.
-
-### What’s next?
-•	Congratulations!! You have successfully debugged ‘Feed the Dino’ game! Way to go – you are officially a developer now. Believe me, this is how coding/developing works.
-
-•	We have provided you another game with intentional bugs int it as a take home activity. If you liked working through ‘Feed the Dino’ project, and are interested in more such debugging challenges, work through another debugging activity https://scratch.mit.edu/projects/448127440/
 
 ## Finding the Right Block
 Scratch gives you a lot of blocks to use for your scripts. There are lots of blocks and it is easy to get lost or confused. The blocks are organized by category to help you find the right tool for the job. You will mix and match these blocks in your script.
@@ -146,3 +142,12 @@ Looks
 
 ## The Golden Rule
 Don’t ever be afraid to ask questions. Programming is hard and everyone needs help. Ask questions if you need help with anything! For any questions after the session, please dend your questions to ng-ywit-questions@netapp.com with the workshop title "Catch Bugs With Us" in the email subject line. All of the code from the workshop will be available in a GitHub repository for reference.
+
+## Finished with your project?
+### Are you sure?
+•	A programmer’s work is never done! There’s always room to improve upon your project—making it even better. Try to include your ideas into the game to make it more interesting 😊 You can add more intentional bugs into the project and challenge your friends to debug it.
+
+### What’s next?
+•	Congratulations!! You have successfully debugged ‘Feed the Dino’ game! Way to go – you are officially a developer now. Believe me, this is how coding/developing works.
+
+•	We have provided you another game with intentional bugs int it as a take home activity. If you liked working through ‘Feed the Dino’ project, and are interested in more such debugging challenges, work through another debugging activity https://scratch.mit.edu/projects/448127440/
