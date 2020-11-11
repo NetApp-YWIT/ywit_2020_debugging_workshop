@@ -1,7 +1,7 @@
 # Getting Started with Activity:
 Do you have a Scratch account? If not, please create one using the link https://scratch.mit.edu/
 
-•	Once you have your Scratch account , go to the project page (https://scratch.mit.edu/projects/448126075/) (project will be made available shortly before the start of the session) and click the REMIX button at the top of the project to create your own copy of it!
+•	Once you have your Scratch account , go to the project page (https://scratch.mit.edu/projects/448126075/) (**project will be made available shortly before the start of the session**) and click the REMIX button at the top of the project to create your own copy of it!
 
 Read the project description to understand how the game is supposed to work and start hacking away!
 
