@@ -101,13 +101,6 @@ So, get movin’ and spruce up your Sprites with spiffy costumes! Make your Stag
 1.	Give the sprite you just created a new costume.
 2.	Look at the ‘Player’ sprite script called ‘Move’. Look at the costumes the ‘Player’ sprite has equipped. Try to figure out how its moving (hint: its just like a flip book you might draw when you were younger)
 
-## Getting Started with Activity:
-Do you have your own Scratch account? If not, please create one using the link https://scratch.mit.edu/
-
-•	Once you have your own Scratch account , go the project page (https://scratch.mit.edu/projects/448126075/), and click the REMIX button at the top of the project to create your own copy of it!
-
-Read the project description to understand how the game is supposed to work and start hacking away! Can you find out all the 12 bugs in the project?
-
 
 ## Finding the Right Block
 Scratch gives you a lot of blocks to use for your scripts. There are lots of blocks and it is easy to get lost or confused. The blocks are organized by category to help you find the right tool for the job. You will mix and match these blocks in your script.
@@ -139,15 +132,3 @@ Looks
 
 ### Variables
 •	Variables are helpful for keeping track of all the information your sprite or Stage needs to know. You can create any number of variables and use them assist Operator and Control blocks in coming to a decision.
-
-## The Golden Rule
-Don’t ever be afraid to ask questions. Programming is hard and everyone needs help. Ask questions if you need help with anything! For any questions after the session, please dend your questions to ng-ywit-questions@netapp.com with the workshop title "Catch Bugs With Us" in the email subject line. All of the code from the workshop will be available in a GitHub repository for reference.
-
-## Finished with your project?
-### Are you sure?
-•	A programmer’s work is never done! There’s always room to improve upon your project—making it even better. Try to include your ideas into the game to make it more interesting 😊 You can add more intentional bugs into the project and challenge your friends to debug it.
-
-### What’s next?
-•	Congratulations!! You have successfully debugged ‘Feed the Dino’ game! Way to go – you are officially a developer now. Believe me, this is how coding/developing works.
-
-•	We have provided you another game with intentional bugs int it as a take home activity. If you liked working through ‘Feed the Dino’ project, and are interested in more such debugging challenges, work through another debugging activity https://scratch.mit.edu/projects/448127440/
