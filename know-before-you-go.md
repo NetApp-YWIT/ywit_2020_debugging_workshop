@@ -107,7 +107,8 @@ Scratch gives you a lot of blocks to use for your scripts. There are lots of blo
 
 ### Motion
 •	These blocks will move your sprites in different ways (position, rotation, etc.) A Stage doesn’t move so it cannot use these.
-Looks
+
+### Looks
 •	The blocks help you to change the costumes and backdrops for your sprites and stages.
 
 •	These blocks also tell your sprite to show itself or hide—they can even tell your sprite to say something!
