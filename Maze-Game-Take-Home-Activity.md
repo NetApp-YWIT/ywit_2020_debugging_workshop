@@ -2,6 +2,10 @@
 
 ## Scratch link for game with Bugs
 
+https://scratch.mit.edu/projects/448127440/
+
+
+
 ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/maze.png)
 
 
@@ -59,6 +63,13 @@ Bug 8: Sometimes cat does not meow when touch the wall or door.
 Bug 9: Cat leg does not move when moving up.
 
 Bug 10: The mouse does not show again once got caught, cannot play the game again.
+
+
+
+## Scratch link to working game:
+
+https://scratch.mit.edu/projects/449546680/
+
 
 
 ## Finished with your debugging activity?
