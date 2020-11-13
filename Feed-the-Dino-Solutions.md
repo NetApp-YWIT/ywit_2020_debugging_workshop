@@ -53,7 +53,7 @@
 
 ## Solutions
 
-1.	Dino isn't moving left:
+### 1.	Dino isn't moving left:
 
 Solution:
 
@@ -65,7 +65,7 @@ Go to Dino Sprite and add the code to change the x coordinate of the sprite to c
 
 
 
-2.	The score does not change on feeding a banana to the Dino
+### 2.	The score does not change on feeding a banana to the Dino
 
 Solution:
 
@@ -78,7 +78,7 @@ Go to banana sprite and correct the condition specified in sensing block. The ou
 
 
 
-3.	The Dino’s costume is not changed when hit by a rock.
+### 3.	The Dino’s costume is not changed when hit by a rock.
 
 Solution:
 
@@ -89,7 +89,7 @@ Go to Rock sprite and add the code to change the costume of Dino when it touches
 | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/bug-3.png) | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/debug-3.png)         |
 
 
-4.	Timer is incrementing instead of decrementing
+### 4.	Timer is incrementing instead of decrementing
 
 Solution:
 
@@ -100,7 +100,7 @@ Go to Background and check if time is decrementing every second. It says, ‘Cha
 | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/bug-4.png) | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/debug-4.png)         |
 
 
-5.	Apples are not visible
+### 5.	Apples are not visible
 
 Solution:
 
@@ -111,7 +111,7 @@ Verify in the apple Sprite if it is Shown when the green flag is clicked. The lo
 | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/bug-5.png) | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/debug-5.png)         |
 
 
-6.	Apples are not falling from the top
+### 6.	Apples are not falling from the top
 
 Solution:
 
@@ -122,7 +122,7 @@ A good way to debug this is to look at the code for Banana or Rock sprite which 
 | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/bug-6.png) | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/debug-6.png)         |
 
 
-7.	The Apples are always falling in one place.
+### 7.	The Apples are always falling in one place.
  
 Solution:
 
@@ -133,7 +133,7 @@ Go to Apple sprite and verify if rand function is added into x coordinate. The m
 | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/bug-7.png) | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/debug-7.png)         |
 
 
-8.	When the timer reaches zero, it does not show “game over”
+### 8.	When the timer reaches zero, it does not show “game over”
 
 Solution:
 
@@ -144,7 +144,7 @@ Go to the stage and add the code to change the backdrop when timer reaches 0. Th
 | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/bug-8.png) | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/debug-8.png)         |
 
 
-9.	There is no pop sound when the Dino is fed apple or banana.
+### 9.	There is no pop sound when the Dino is fed apple or banana.
 
 Solution: 
 
@@ -156,7 +156,7 @@ In the bugged code logic, it says ‘if touching bananas and touching apple’. 
 
 
 
-10.	Even after the Game is over, the bananas are still visible
+### 10.	Even after the Game is over, the bananas are still visible
 
 Solution:
 
@@ -165,7 +165,7 @@ Check in bananas sprite if it hides when the sprite receives Game over message f
 
 | Buugged Code     | Debugged Code |
 | ---      | ---       |
-| ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/bug-10.png) | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/debug-10.png)         |
+| ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/bug-10.PNG) | ![alt tag](https://github.com/NetApp-YWIT/ywit_2020_debugging_workshop/blob/main/Images/debug-10.PNG)         |
 
 
 
